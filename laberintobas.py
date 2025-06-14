@@ -47,7 +47,6 @@ def labbas(lab, res, fil, col)->bool:
             return False
 
 ######
-#imprime(lab)
 
 if labbas(lab, res, 0, 0):
     print("Salio")
